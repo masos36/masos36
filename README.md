@@ -1,4 +1,7 @@
-Aaaaaaaaaaaa
+Hi hi👋👋
+I'm Learning Data Science atm🙇‍♀️
+Also doing mini python projects :P
+
 
 <!--
 **masos36/masos36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
